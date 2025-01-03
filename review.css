@@ -1,0 +1,56 @@
+.review-all{
+    padding-left: 82px;
+    display: inline-block;
+}
+.review-head{
+display: flex;
+padding-top: 12px;
+width: 485px;
+    height: 60px;
+    
+
+}
+.logo-img{
+    padding-left: 15px;
+    width: 50px;
+    height: 50px;
+    justify-content: space-between;
+
+}
+.test{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+padding-left: 12px;
+padding-top: 16px;
+color: rgb(190 21 34);
+font-size: 16px;
+height: 10px;
+
+
+}
+
+.rateing{
+    padding-left:25px ;
+    margin-top: 1px;
+}
+.star{
+    width: 26px;
+   padding-right: 1px;
+    height: 23px;
+    padding-top: 13px;
+}.add{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+padding-left: 12px;
+padding-top: 16px;
+color:rgb(144, 135, 135);
+font-size: 16px;
+}
+.review-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(60, 60,60);
+    width: 486px;
+    font-weight: 400;
+    padding-left: 12px;
+    font-size: 16px;
+}

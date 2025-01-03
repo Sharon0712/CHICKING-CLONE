@@ -1,0 +1,37 @@
+.footer{
+    width: 1511px;
+    height: 108px;
+    padding-top:50px;
+    padding-bottom: 50px;
+    background-color: rgb(190 21 34);
+}
+.white-chiking{
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.footer-elements{
+    display: flex;
+}
+.all-ul{
+    font-family: Arial, Helvetica, sans-serif;
+display: flex;
+justify-content: space-between;
+width: 63%;
+color:white;
+list-style-type: none;
+padding-left: 63px;
+font-size: 16px;
+
+}
+.policy{
+    padding-bottom: 10px;
+}
+.year{
+    display: flex;
+text-align: center;
+width:833px ;background-color: white;
+justify-content:flex-end;
+font-family: roboto,Arial, sans-serif;
+margin-top: 5px;
+
+}

@@ -1,0 +1,70 @@
+.all-down{
+    flex-direction: column;
+    padding-left: 280px;    
+    padding-top: 60px;
+    padding-bottom: 0;
+
+}
+.all-down2{
+    position: absolute;
+}
+.phone{
+    width: 455px;
+    height: 430px;
+    padding-right: 112px;
+    padding-bottom: -1px;
+}
+.get{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    flex-direction: column;
+    width: 422px;
+    height: 434px;
+    padding-top: 39px;
+    font-size:26px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    z-index:0;
+}
+.app-intro{
+    color:rgb(120,115, 115);
+    font-size: 14px;
+    font-weight: 400;
+    width: 450px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+.download-intro{
+    font-size: 17px;
+    font-weight: 400;
+    width: 450px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    
+}
+.play-store{
+    position: absolute;
+    height: 250px;
+    width: 100px;
+    
+}
+.store{
+    
+    padding-top: 15px;
+    height: 58px;
+    width: 185px;
+    
+}
+.google-play{
+    padding-top: 15px;
+    height: 58px;
+    width: 185px;
+    
+}
+.qr{
+    padding-top: 6px;
+    height: 156px;
+    width: 185px;
+    padding-left: 218PX;
+}

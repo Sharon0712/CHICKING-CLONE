@@ -1,0 +1,12 @@
+.add-info{
+   flex-direction: column;
+   background-color: rgb(255 255 255);
+
+}
+.outlet{
+  width: 39%;
+  height: 43%;
+ position: static;
+  margin-top: 126px;
+  padding-left: 105px;
+} 
